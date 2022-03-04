@@ -39,7 +39,7 @@
 - **SPA 프레임 워크** (Single Page Application)
   -Angular, React, Vue.js, Svelte
   
-# JavaScript 와 ECMAScript
+# 🎈 JavaScript 와 ECMAScript
 - ECMAScript
   - JavaScript 표준사양
   - 프로그래밍 언어의 값, 타입, 객체와 프로퍼티, 함수, 표준 빌트인 객체 등
@@ -49,7 +49,7 @@
 - + 클라이언트 사이드 Web API( DOM, BOM, Canvas, XMLhttpRequest, fetch, requestAnimationFrame, SVG, Web Storage, Web Component, Web Worker 등)
 
 
-# 자바스크립트의 특징
+# ✨ 자바스크립트의 특징
 - 웹 브라우저에서 동작하는 유일한 프로그래밍 언어.
 - 개발자가 별도의 컴파일 작업을 수행하지 않는 **인터프리터 언어(interpreter langauage)**
 - 명령형, 함수형, 프로토타입 기반 객체지향 프로그래밍을 지원하는 멀티 패러다임 프로그래밍 언어.
