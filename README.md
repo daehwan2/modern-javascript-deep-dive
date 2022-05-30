@@ -7,3 +7,6 @@
   - [호이스팅](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85/README.md)
   - [데이터타입이 필요한 이유](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85%EC%9D%B4%20%ED%95%84%EC%9A%94%ED%95%9C%20%EC%9D%B4%EC%9C%A0/README.md)
   - [동적타이핑](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EB%8F%99%EC%A0%81%20%ED%83%80%EC%9D%B4%ED%95%91.md)
+
+- 11. 원시 값과 객체의 비교
+  - [깊은 복사, 얕은 복사](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EC%96%95%EC%9D%80%20%EB%B3%B5%EC%82%AC%EC%99%80%20%EA%B9%8A%EC%9D%80%20%EB%B3%B5%EC%82%AC.md) 
