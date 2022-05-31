@@ -10,3 +10,5 @@
 
 - 11. 원시 값과 객체의 비교
   - [깊은 복사, 얕은 복사](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EC%96%95%EC%9D%80%20%EB%B3%B5%EC%82%AC%EC%99%80%20%EA%B9%8A%EC%9D%80%20%EB%B3%B5%EC%82%AC.md) 
+
+- 13. [스코프](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EC%8A%A4%EC%BD%94%ED%94%84%EB%9E%80%3F.md)
