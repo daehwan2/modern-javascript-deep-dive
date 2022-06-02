@@ -12,4 +12,4 @@
   - [깊은 복사, 얕은 복사](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EC%96%95%EC%9D%80%20%EB%B3%B5%EC%82%AC%EC%99%80%20%EA%B9%8A%EC%9D%80%20%EB%B3%B5%EC%82%AC.md) 
 
 - 13. [스코프](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EC%8A%A4%EC%BD%94%ED%94%84%EB%9E%80%3F.md)
-- 14. [전역 변수의 문제점 - 해결책 추가해야함](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EC%A0%84%EC%97%AD%EB%B3%80%EC%88%98%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
+- 14. [전역 변수의 문제점, 해결책](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EC%A0%84%EC%97%AD%EB%B3%80%EC%88%98%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
