@@ -13,3 +13,4 @@
 
 - 13. [스코프](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EC%8A%A4%EC%BD%94%ED%94%84%EB%9E%80%3F.md)
 - 14. [전역 변수의 문제점, 해결책](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EC%A0%84%EC%97%AD%EB%B3%80%EC%88%98%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
+- 16. [프로퍼티 어트리뷰트](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%20%EC%96%B4%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8.md)
