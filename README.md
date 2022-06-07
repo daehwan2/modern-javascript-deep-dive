@@ -18,3 +18,4 @@
   - [객체변경방지](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EA%B0%9D%EC%B2%B4%EB%B3%80%EA%B2%BD%EB%B0%A9%EC%A7%80.md)
 
 - 17장 생성자 함수에 의한 객체 
+  - [생성자 함수 + this간단 설명](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EC%83%9D%EC%84%B1%EC%9E%90%20%ED%95%A8%EC%88%98%20%2B%20this%20%EA%B0%84%EB%8B%A8%20%EC%84%A4%EB%AA%85.md)
