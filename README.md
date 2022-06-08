@@ -21,4 +21,4 @@
   - [생성자 함수 + this간단 설명](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EC%83%9D%EC%84%B1%EC%9E%90%20%ED%95%A8%EC%88%98%20%2B%20this%20%EA%B0%84%EB%8B%A8%20%EC%84%A4%EB%AA%85.md)
 
 - 18장 함수와 일급 객체
-  - [일급 객체]()
+  - [일급 객체](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EC%9D%BC%EA%B8%89%EA%B0%9D%EC%B2%B4.md)
