@@ -22,3 +22,6 @@
 
 - 18장 함수와 일급 객체
   - [일급 객체](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EC%9D%BC%EA%B8%89%EA%B0%9D%EC%B2%B4.md)
+
+- 19장 프로토타입
+  - []()
