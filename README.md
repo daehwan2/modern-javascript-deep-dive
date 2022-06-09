@@ -25,3 +25,4 @@
 
 - 19장 프로토타입
   - [객체지향프로그래밍+상속과 프로토타입](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%2B%EC%83%81%EC%86%8D%2B%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
+  - [프로토타입 객체]()
