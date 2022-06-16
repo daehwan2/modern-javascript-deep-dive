@@ -29,3 +29,4 @@
   - [오버라이딩 vs 오버로딩](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9%20vs%20%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9.md)
   
 - [22장 this](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/this.md)
+- [24장 클로저](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%ED%81%B4%EB%A1%9C%EC%A0%80.md)
