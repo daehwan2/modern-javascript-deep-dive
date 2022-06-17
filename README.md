@@ -29,4 +29,6 @@
   - [오버라이딩 vs 오버로딩](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9%20vs%20%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9.md)
   
 - [22장 this](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/this.md)
+- 23장 실행 컨텍스트
+  - [소스코드의 타입, 소스코드의 평가와 실행](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C%EC%9D%98%20%ED%83%80%EC%9E%85%2C%20%ED%8F%89%EA%B0%80%EC%99%80%20%EC%8B%A4%ED%96%89.md)
 - [24장 클로저](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%ED%81%B4%EB%A1%9C%EC%A0%80.md)
