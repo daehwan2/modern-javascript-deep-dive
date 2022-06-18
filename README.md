@@ -32,3 +32,4 @@
 - 23장 실행 컨텍스트
   - [소스코드의 타입, 소스코드의 평가와 실행](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C%EC%9D%98%20%ED%83%80%EC%9E%85%2C%20%ED%8F%89%EA%B0%80%EC%99%80%20%EC%8B%A4%ED%96%89.md)
 - [24장 클로저](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%ED%81%B4%EB%A1%9C%EC%A0%80.md)
+  - [클로저의 활용](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%ED%81%B4%EB%A1%9C%EC%A0%80%EC%9D%98%20%ED%99%9C%EC%9A%A9.md)
