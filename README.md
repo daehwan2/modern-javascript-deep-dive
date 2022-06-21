@@ -34,3 +34,4 @@
   - [실행컨텍스트 스택](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%8A%A4%ED%83%9D.md)
 - [24장 클로저](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%ED%81%B4%EB%A1%9C%EC%A0%80.md)
   - [클로저의 활용](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%ED%81%B4%EB%A1%9C%EC%A0%80%EC%9D%98%20%ED%99%9C%EC%9A%A9.md)
+- 25장  
