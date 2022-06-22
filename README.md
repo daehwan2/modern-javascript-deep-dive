@@ -35,3 +35,4 @@
 - [24장 클로저](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%ED%81%B4%EB%A1%9C%EC%A0%80.md)
   - [클로저의 활용](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%ED%81%B4%EB%A1%9C%EC%A0%80%EC%9D%98%20%ED%99%9C%EC%9A%A9.md)
 - 25장 클래스
+- 26장 배열
