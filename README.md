@@ -36,4 +36,5 @@
   - [클로저의 활용](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%ED%81%B4%EB%A1%9C%EC%A0%80%EC%9D%98%20%ED%99%9C%EC%9A%A9.md)
 - [25장 클래스](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%ED%81%B4%EB%9E%98%EC%8A%A4.md)
   - [클래스 호이스팅](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%ED%81%B4%EB%9E%98%EC%8A%A4%20%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85.md)
-- [26장 배열]()
+- 26장 ES6 함수의 추가 기능
+- 27장 배열
