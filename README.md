@@ -38,6 +38,7 @@
   - [클래스 호이스팅](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%ED%81%B4%EB%9E%98%EC%8A%A4%20%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85.md)
   - [클래스의 인스턴스 생성과정](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98%20%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%20%EC%83%9D%EC%84%B1%20%EA%B3%BC%EC%A0%95.md)
   - [super 키워드](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/super%20%ED%82%A4%EC%9B%8C%EB%93%9C.md)
-- 26장 ES6 함수의 추가 기능
+- [26장 ES6 함수의 추가 기능](https://github.com/daehwan2/modern-javascript-deep-dive/blob/main/ES6%20%ED%95%A8%EC%88%98%EC%9D%98%20%EC%B6%94%EA%B0%80%20%EA%B8%B0%EB%8A%A5)
+  - [화살표 함수와 일반 함수의 차이]()
 - 27장 배열
 - 28장 Number
